@@ -1,0 +1,469 @@
+{
+  "kerala": {
+    "checklist": [
+      "Carry first-aid kit",
+      "Keep hand sanitizer and masks",
+      "Stay hydrated",
+      "Check local vaccine requirements",
+      "Use mosquito repellent (Dengue area)"
+    ],
+    "hospitals": [
+      {
+        "name": "Amrita Institute of Medical Sciences",
+        "address": "Kochi, Kerala",
+        "maps_link": "https://maps.google.com"
+      },
+      {
+        "name": "Lakeshore Hospital",
+        "address": "Kochi, Kerala",
+        "maps_link": "https://maps.google.com"
+      }
+    ],
+    "outbreaks": ["⚠️ Dengue outbreak in Kochi"],
+    "weather_risks": [
+      "High humidity – stay hydrated",
+      "Pack sunscreen – UV Index may be high"
+    ]
+  },
+  "delhi": {
+    "checklist": [
+      "Carry first-aid kit",
+      "Keep hand sanitizer and masks",
+      "Stay hydrated",
+      "Check local vaccine requirements",
+      "Use N95 mask (Air pollution)"
+    ],
+    "hospitals": [
+      {
+        "name": "AIIMS Delhi",
+        "address": "Ansari Nagar, New Delhi",
+        "maps_link": "https://maps.google.com"
+      },
+      {
+        "name": "Max Super Speciality Hospital",
+        "address": "Saket, New Delhi",
+        "maps_link": "https://maps.google.com"
+      }
+    ],
+    "outbreaks": [],
+    "weather_risks": [
+      "Air pollution – use mask",
+      "Dry climate – stay hydrated"
+    ]
+  },
+  "mumbai": {
+    "checklist": [
+      "Carry first-aid kit",
+      "Keep hand sanitizer and masks",
+      "Stay hydrated",
+      "Check local vaccine requirements"
+    ],
+    "hospitals": [
+      {
+        "name": "Lilavati Hospital",
+        "address": "Bandra, Mumbai",
+        "maps_link": "https://maps.google.com"
+      },
+      {
+        "name": "KEM Hospital",
+        "address": "Parel, Mumbai",
+        "maps_link": "https://maps.google.com"
+      }
+    ],
+    "outbreaks": ["⚠️ Leptospirosis cases rising after floods"],
+    "weather_risks": [
+      "Heavy rainfall – risk of waterborne diseases",
+      "Flood-prone – carry waterproof gear"
+    ]
+  },
+  "punjab": {
+    "checklist": [
+      "Carry first-aid kit",
+      "Keep hand sanitizer and masks",
+      "Stay hydrated",
+      "Check local vaccine requirements",
+      "Carry woolens if traveling in winter"
+    ],
+    "hospitals": [
+      {
+        "name": "Fortis Hospital",
+        "address": "Mohali, Punjab",
+        "maps_link": "https://maps.google.com"
+      },
+      {
+        "name": "DMC Ludhiana",
+        "address": "Ludhiana, Punjab",
+        "maps_link": "https://maps.google.com"
+      }
+    ],
+    "outbreaks": [],
+    "weather_risks": [
+      "Cold waves in winter – dress warm",
+      "Air pollution in urban areas – wear masks"
+    ]
+  },
+"andhra_pradesh": {
+    "checklist": [
+      "Carry first-aid kit",
+      "Keep hand sanitizer and masks",
+      "Stay hydrated",
+      "Check local vaccine requirements",
+      "Carry sunscreen (Sun exposure)"
+    ],
+    "hospitals": [
+      {
+        "name": "Sri Venkateswara Institute of Medical Sciences",
+        "address": "Tirupati, Andhra Pradesh",
+        "maps_link": "https://maps.google.com"
+      },
+      {
+        "name": "KIMS Hospital",
+        "address": "Vizag, Andhra Pradesh",
+        "maps_link": "https://maps.google.com"
+      }
+    ],
+    "outbreaks": [],
+    "weather_risks": [
+      "High temperature – carry sunscreen",
+      "Thunderstorms – carry rain gear"
+    ]
+  },
+  "arunachal_pradesh": {
+    "checklist": [
+      "Carry first-aid kit",
+      "Keep hand sanitizer and masks",
+      "Stay hydrated",
+      "Check local vaccine requirements",
+      "Carry warm clothes (cold climate)"
+    ],
+    "hospitals": [
+      {
+        "name": "Tomo Riba Institute of Health and Medical Sciences",
+        "address": "Itanagar, Arunachal Pradesh",
+        "maps_link": "https://maps.google.com"
+      },
+      {
+        "name": "Arunachal State Hospital",
+        "address": "Itanagar, Arunachal Pradesh",
+        "maps_link": "https://maps.google.com"
+      }
+    ],
+    "outbreaks": [],
+    "weather_risks": [
+      "Cold climate – dress warmly",
+      "Heavy rainfall – carry waterproof gear"
+    ]
+  },
+  "assam": {
+    "checklist": [
+      "Carry first-aid kit",
+      "Keep hand sanitizer and masks",
+      "Stay hydrated",
+      "Check local vaccine requirements",
+      "Use mosquito repellent (Malaria area)"
+    ],
+    "hospitals": [
+      {
+        "name": "Assam Medical College & Hospital",
+        "address": "Dibrugarh, Assam",
+        "maps_link": "https://maps.google.com"
+      },
+      {
+        "name": "Gauhati Medical College & Hospital",
+        "address": "Guwahati, Assam",
+        "maps_link": "https://maps.google.com"
+      }
+    ],
+    "outbreaks": ["⚠️ Malaria outbreaks in some regions"],
+    "weather_risks": [
+      "High humidity – stay hydrated",
+      "Rainy season – carry rain gear"
+    ]
+  },
+  "bihar": {
+    "checklist": [
+      "Carry first-aid kit",
+      "Keep hand sanitizer and masks",
+      "Stay hydrated",
+      "Check local vaccine requirements",
+      "Carry woolens if traveling in winter"
+    ],
+    "hospitals": [
+      {
+        "name": "Patna Medical College and Hospital",
+        "address": "Patna, Bihar",
+        "maps_link": "https://maps.google.com"
+      },
+      {
+        "name": "Indira Gandhi Institute of Medical Sciences",
+        "address": "Patna, Bihar",
+        "maps_link": "https://maps.google.com"
+      }
+    ],
+    "outbreaks": [],
+    "weather_risks": [
+      "Cold waves in winter – dress warm",
+      "Air pollution in urban areas – wear masks"
+    ]
+  },
+  "shimla": {
+    "checklist": [
+      "Carry first-aid kit",
+      "Keep hand sanitizer and masks",
+      "Stay hydrated",
+      "Check local vaccine requirements",
+      "Carry warm clothes (cold weather)"
+    ],
+    "hospitals": [
+      {
+        "name": "Indira Gandhi Medical College",
+        "address": "Shimla, Himachal Pradesh",
+        "maps_link": "https://maps.google.com"
+      },
+      {
+        "name": "Kalka-Shimla Health Center",
+        "address": "Shimla, Himachal Pradesh",
+        "maps_link": "https://maps.google.com"
+      }
+    ],
+    "outbreaks": [],
+    "weather_risks": [
+      "Cold climate – dress warmly",
+      "Occasional snowfall – be cautious while traveling"
+    ]
+  },
+  "manali": {
+    "checklist": [
+      "Carry first-aid kit",
+      "Keep hand sanitizer and masks",
+      "Stay hydrated",
+      "Check local vaccine requirements",
+      "Carry warm clothes (cold climate)"
+    ],
+    "hospitals": [
+      {
+        "name": "Manali Hospital",
+        "address": "Manali, Himachal Pradesh",
+        "maps_link": "https://maps.google.com"
+      },
+      {
+        "name": "New Manali Hospital",
+        "address": "Manali, Himachal Pradesh",
+        "maps_link": "https://maps.google.com"
+      }
+    ],
+    "outbreaks": [],
+    "weather_risks": [
+      "Snowfall – roads may be blocked",
+      "Cold climate – dress warmly"
+    ]
+  },
+  "darjeeling": {
+    "checklist": [
+      "Carry first-aid kit",
+      "Keep hand sanitizer and masks",
+      "Stay hydrated",
+      "Check local vaccine requirements",
+      "Carry warm clothes (cold climate)"
+    ],
+    "hospitals": [
+      {
+        "name": "Darjeeling District Hospital",
+        "address": "Darjeeling, West Bengal",
+        "maps_link": "https://maps.google.com"
+      },
+      {
+        "name": "St. Joseph's Hospital",
+        "address": "Darjeeling, West Bengal",
+        "maps_link": "https://maps.google.com"
+      }
+    ],
+    "outbreaks": [],
+    "weather_risks": [
+      "Cold climate – dress warmly",
+      "Heavy rainfall – carry waterproof gear"
+    ]
+  },
+  "ooty": {
+    "checklist": [
+      "Carry first-aid kit",
+      "Keep hand sanitizer and masks",
+      "Stay hydrated",
+      "Check local vaccine requirements",
+      "Carry warm clothes (cold weather)"
+    ],
+    "hospitals": [
+      {
+        "name": "Government Hospital",
+        "address": "Ooty, Tamil Nadu",
+        "maps_link": "https://maps.google.com"
+      },
+      {
+        "name": "Apollo Telemedicine",
+        "address": "Ooty, Tamil Nadu",
+        "maps_link": "https://maps.google.com"
+      }
+    ],
+    "outbreaks": [],
+    "weather_risks": [
+      "Cold climate – dress warmly",
+      "Occasional rainfall – carry rain gear"
+    ]
+  },
+  "munnar": {
+    "checklist": [
+      "Carry first-aid kit",
+      "Keep hand sanitizer and masks",
+      "Stay hydrated",
+      "Check local vaccine requirements",
+      "Carry mosquito repellent (Dengue area)"
+    ],
+    "hospitals": [
+      {
+        "name": "Munnar Government Hospital",
+        "address": "Munnar, Kerala",
+        "maps_link": "https://maps.google.com"
+      },
+      {
+        "name": "Vellathuval Health Center",
+        "address": "Munnar, Kerala",
+        "maps_link": "https://maps.google.com"
+      }
+    ],
+    "outbreaks": ["⚠️ Dengue outbreak in the region"],
+    "weather_risks": [
+      "High humidity – stay hydrated",
+      "Pack sunscreen – UV Index may be high"
+    ]
+  },
+  "nainital": {
+    "checklist": [
+      "Carry first-aid kit",
+      "Keep hand sanitizer and masks",
+      "Stay hydrated",
+      "Check local vaccine requirements",
+      "Carry warm clothes (cold weather)"
+    ],
+    "hospitals": [
+      {
+        "name": "Nainital District Hospital",
+        "address": "Nainital, Uttarakhand",
+        "maps_link": "https://maps.google.com"
+      },
+      {
+        "name": "Govt. Hospital, Nainital",
+        "address": "Nainital, Uttarakhand",
+        "maps_link": "https://maps.google.com"
+      }
+    ],
+    "outbreaks": [],
+    "weather_risks": [
+      "Cold climate – dress warmly",
+      "Heavy rain – carry waterproof gear"
+    ]
+  },
+  "mussoorie": {
+    "checklist": [
+      "Carry first-aid kit",
+      "Keep hand sanitizer and masks",
+      "Stay hydrated",
+      "Check local vaccine requirements",
+      "Carry warm clothes (cold weather)"
+    ],
+    "hospitals": [
+      {
+        "name": "Mussoorie Hospital",
+        "address": "Mussoorie, Uttarakhand",
+        "maps_link": "https://maps.google.com"
+      },
+      {
+        "name": "Doon Hospital",
+        "address": "Dehradun, Uttarakhand",
+        "maps_link": "https://maps.google.com"
+      }
+    ],
+    "outbreaks": [],
+    "weather_risks": [
+      "Cold climate – dress warmly",
+      "Occasional rainfall – carry rain gear"
+    ]
+  },
+  "coorg": {
+    "checklist": [
+      "Carry first-aid kit",
+      "Keep hand sanitizer and masks",
+      "Stay hydrated",
+      "Check local vaccine requirements",
+      "Carry mosquito repellent (Dengue area)"
+    ],
+    "hospitals": [
+      {
+        "name": "Coorg Institute of Medical Sciences",
+        "address": "Kodagu, Karnataka",
+        "maps_link": "https://maps.google.com"
+      },
+      {
+        "name": "Madikeri General Hospital",
+        "address": "Madikeri, Karnataka",
+        "maps_link": "https://maps.google.com"
+      }
+    ],
+    "outbreaks": [],
+    "weather_risks": [
+      "High humidity – stay hydrated",
+      "Heavy rainfall – carry waterproof gear"
+    ]
+  },
+  "gulmarg": {
+    "checklist": [
+      "Carry first-aid kit",
+      "Keep hand sanitizer and masks",
+      "Stay hydrated",
+      "Check local vaccine requirements",
+      "Carry warm clothes (cold climate)"
+    ],
+    "hospitals": [
+      {
+        "name": "Gulmarg Hospital",
+        "address": "Gulmarg, Jammu and Kashmir",
+        "maps_link": "https://maps.google.com"
+      },
+      {
+        "name": "Government Hospital, Baramulla",
+        "address": "Baramulla, Jammu and Kashmir",
+        "maps_link": "https://maps.google.com"
+      }
+    ],
+    "outbreaks": [],
+    "weather_risks": [
+      "Cold climate – dress warmly",
+      "Heavy snowfall – be cautious while traveling"
+    ]
+  },
+  "mount_abu": {
+    "checklist": [
+      "Carry first-aid kit",
+      "Keep hand sanitizer and masks",
+      "Stay hydrated",
+      "Check local vaccine requirements",
+      "Carry warm clothes (cold weather)"
+    ],
+    "hospitals": [
+      {
+        "name": "Acharya Tulsi Regional Cancer Treatment and Research Centre",
+        "address": "Mount Abu, Rajasthan",
+        "maps_link": "https://maps.google.com"
+      },
+      {
+        "name": "Mount Abu General Hospital",
+        "address": "Mount Abu, Rajasthan",
+        "maps_link": "https://maps.google.com"
+      }
+    ],
+    "outbreaks": [],
+    "weather_risks": [
+      "Cold climate – dress warmly",
+      "Occasional rainfall – carry rain gear"
+    ]
+  }
+}

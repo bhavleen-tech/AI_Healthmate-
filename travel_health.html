@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>🧳 Travel Health Mode | AI-HealthMate</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>🇮🇳 Travel Health Mode</h1>
+        <p class="tagline">"Going somewhere? Stay healthy anywhere!"</p>
+
+        <input type="text" id="destination" placeholder="Enter Indian city (e.g., Kerala, Delhi)" />
+        <button onclick="getTravelHealth()">Check Health Info</button>
+
+        <div id="results" class="results-section"></div>
+    </div>
+
+    <script>
+        async function getTravelHealth() {
+            const dest = document.getElementById("destination").value.trim();
+            const resDiv = document.getElementById("results");
+            resDiv.innerHTML = "<p>Loading...</p>";
+
+            const response = await fetch("/api/travel-health", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ destination: dest })
+            });
+
+            const data = await response.json();
+            resDiv.innerHTML = `
+                <h2>✅ Travel Checklist</h2>
+                <ul>${data.checklist.map(item => `<li>${item}</li>`).join('')}</ul>
+
+                <h2>🏥 Nearby Hospitals</h2>
+                <ul>${data.hospitals.map(h => `<li><strong>${h.name}</strong>, ${h.address} – <a href="${h.maps_link}" target="_blank">Maps</a></li>`).join('')}</ul>
+
+                <h2>⚠️ Local Outbreaks</h2>
+                <ul>${data.outbreaks.length ? data.outbreaks.map(o => `<li>${o}</li>`).join('') : "<li>No major alerts</li>"}</ul>
+
+                <h2>🌦️ Weather & Health Tips</h2>
+                <ul>${data.weather_risks.map(w => `<li>${w}</li>`).join('')}</ul>
+            `;
+        }
+    </script>
+</body>
+</html>

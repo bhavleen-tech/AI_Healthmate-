@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Dr. Ramesh Sharma",
+    "location": "Rohini",
+    "specialty": "Cardiologist",
+    "experience": "12 years",
+    "clinic": "Heart Care Clinic",
+    "maps_link": "https://maps.google.com/?q=Heart+Care+Clinic+Rohini"
+  },
+  {
+    "name": "Dr. Anita Verma",
+    "location": "Rohini",
+    "specialty": "Cardiologist",
+    "experience": "8 years",
+    "clinic": "Healthy Heart Center",
+    "maps_link": "https://maps.google.com/?q=Healthy+Heart+Center+Rohini"
+  },
+  {
+    "name": "Dr. Priya Gupta",
+    "location": "Pitampura",
+    "specialty": "Dentist",
+    "experience": "6 years",
+    "clinic": "Smile Dental Clinic",
+    "maps_link": "https://maps.google.com/?q=Smile+Dental+Clinic+Pitampura"
+  },
+  {
+    "name": "Dr. Amit Singh",
+    "location": "Punjabi Bagh",
+    "specialty": "Orthopedic Surgeon",
+    "experience": "15 years",
+    "clinic": "Bone Care Orthopedic Center",
+    "maps_link": "https://maps.google.com/?q=Bone+Care+Orthopedic+Center+Punjabi+Bagh"
+  },
+  {
+    "name": "Dr. Sunita Mehta",
+    "location": "Shalimar Bagh",
+    "specialty": "Dermatologist",
+    "experience": "10 years",
+    "clinic": "Skin Care Clinic",
+    "maps_link": "https://maps.google.com/?q=Skin+Care+Clinic+Shalimar+Bagh"
+  },
+  {
+    "name": "Dr. Karan Malhotra",
+    "location": "Model Town",
+    "specialty": "Neurologist",
+    "experience": "9 years",
+    "clinic": "Brain Health Clinic",
+    "maps_link": "https://maps.google.com/?q=Brain+Health+Clinic+Model+Town"
+  },
+  {
+    "name": "Dr. Neha Bansal",
+    "location": "Azadpur",
+    "specialty": "Pediatrician",
+    "experience": "5 years",
+    "clinic": "Kids Care Clinic",
+    "maps_link": "https://maps.google.com/?q=Kids+Care+Clinic+Azadpur"
+  },
+  {
+    "name": "Dr. Vishal Chawla",
+    "location": "Civil Lines",
+    "specialty": "General Physician",
+    "experience": "20 years",
+    "clinic": "Chawla Health Care",
+    "maps_link": "https://maps.google.com/?q=Chawla+Health+Care+Civil+Lines"
+  },
+  {
+    "name": "Dr. Manju Kapoor",
+    "location": "Moti Nagar",
+    "specialty": "Gynecologist",
+    "experience": "18 years",
+    "clinic": "Women's Health Clinic",
+    "maps_link": "https://maps.google.com/?q=Women%27s+Health+Clinic+Moti+Nagar"
+  },
+  {
+    "name": "Dr. Sandeep Kumar",
+    "location": "Narela",
+    "specialty": "Urologist",
+    "experience": "14 years",
+    "clinic": "Narela Urology Center",
+    "maps_link": "https://maps.google.com/?q=Narela+Urology+Center+Narela"
+  }
+]
