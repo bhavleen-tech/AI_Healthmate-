@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Medical Report Analysis</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 30px;
+            background-color: #f7f9fc;
+        }
+        .header {
+            margin-bottom: 30px;
+        }
+        .header h1 {
+            margin: 0;
+            color: #222;
+        }
+        .header p {
+            font-size: 16px;
+            margin: 4px 0;
+        }
+        .metric {
+            background: #fff;
+            padding: 20px;
+            margin-bottom: 15px;
+            border-radius: 10px;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+        }
+        .metric h2 {
+            margin: 0 0 10px;
+            color: #333;
+        }
+        .metric p {
+            margin: 5px 0;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <h1>🧾 Medical Report Analysis</h1>
+        <p><strong>Patient Name:</strong> {{ name }}</p>
+        <p><strong>Date:</strong> {{ date }}</p>
+    </div>
+
+    {% for metric, data in analysis.items() %}
+    <div class="metric">
+        <h2>{{ metric }}</h2>
+        <p><strong>Status:</strong> {{ data.status }}</p>
+        <p><strong>Comment:</strong> {{ data.comment }}</p>
+    </div>
+    {% endfor %}
+
+</body>
+</html>
